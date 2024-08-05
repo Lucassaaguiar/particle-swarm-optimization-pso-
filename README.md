@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13218575.svg)](https://doi.org/10.5281/zenodo.13218575)
+
 # Particle Swarm Optimization (PSO) Repository
 
 This repository contains a basic implementation of the Particle Swarm Optimization (PSO) algorithm. The code has been evaluated using several benchmark functions, both with and without constraints. A quadratic penalty method was employed for handling constraints.
